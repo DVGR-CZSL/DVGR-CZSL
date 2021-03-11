@@ -3,5 +3,5 @@ Once you have the data, put it in a folder and share the folder path inside the 
 If you have any suggestions, feel free to send a pull request.
 
 # License
-This source code is released under The MIT License found in the LICENSE file in this source tree's root directory.
+This source code is released under The MIT License found in the [LICENSE](https://github.com/DVGR-CZSL/DVGR-CZSL/blob/main/LICENSE) file in this source tree's root directory.
 
