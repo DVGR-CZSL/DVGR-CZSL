@@ -3,7 +3,7 @@ Once you have the data, put it in a folder and share the folder path inside the 
 If you have any suggestions, feel free to send a pull request.
 
 # Dynamic VAEs with Generative Replay for Continual Zero-shot Learning
-This is the official PyTorch implementation of [Adversarial Training of Variational Auto-encoders for Continual Zero-shot Learning(A-CZSL)](https://arxiv.org/abs/2102.03778). The paper has been accepted at CVPR, 2021 for Findings.
+This is the official PyTorch implementation of [Dynamic VAEs with Generative Replay for Continual Zero-shot Learning](https://arxiv.org/abs/2102.03778). The paper has been accepted at CVPR, 2021 for Findings.
 # Abstract 
 Continual zero-shot learning(CZSL) is a new domain to classify objects sequentially the model has not seen during training. It is more suitable than zero-shot and continual learning approaches in real-case scenarios when data may come continually with only attributes for a few classes and attributes and features for other classes. Continual learning(CL) suffers from catastrophic forgetting, and zero-shot learning(ZSL) models cannot classify objects like state-of-the-art supervised classifiers due to lack of actual data(or features) during training. This paper proposes a novel continual zero-shot learning (DVGR-CZSL) model that grows in size with each task and uses generative replay to update itself with previously learned classes to avoid forgetting. We demonstrate our hybrid model(DVGR-CZSL) outperforms the baselines and is effective on several datasets, i.e., CUB, AWA1, AWA2, and aPY. We show our method is superior in task sequentially learning with ZSL(Zero-Shot Learning). We also discuss our results on the SUN dataset.
 
