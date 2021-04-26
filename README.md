@@ -23,6 +23,6 @@ If using this code, parts of it, or developments from it, please cite our paper:
 # Questions/ Bugs
 For questions and bugs, please contact the author Subhankar Ghosh via email [subhankarg@alum.iis.ac.in](mailto:x@x.com)
 # License
-This source code is released under The MIT License found in the [LICENSE](https://github.com/CZSLwithCVAE/CZSL_CVAE/blob/main/LICENSE) file in the root directory of this source tree.
+This source code is released under The MIT License found in the [LICENSE](https://github.com/DVGR-CZSL/DVGR-CZSL/blob/main/LICENSE) file in the root directory of this source tree.
 
 
