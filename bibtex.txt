@@ -1,0 +1,8 @@
+@misc{ghosh2021dynamic,
+      title={Dynamic VAEs with Generative Replay for Continual Zero-shot Learning}, 
+      author={Subhankar Ghosh},
+      year={2021},
+      eprint={2104.12468},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
