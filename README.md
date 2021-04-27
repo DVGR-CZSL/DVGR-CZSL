@@ -1,6 +1,6 @@
 # Datasets
 Please click [here](https://drive.google.com/drive/folders/1TFpxSIdQclmbcSA3dw8tU1pmbZUcGl6m?usp=sharing) to download the datasets.\
-Once you have the data, put it in a folder and share the folder path inside the code.\
+Once you have the data, put it in a folder and share the folder path inside the code.
 
 # Dynamic VAEs with Generative Replay for Continual Zero-shot Learning
 This is the official PyTorch implementation of [Dynamic VAEs with Generative Replay for Continual Zero-shot Learning](https://arxiv.org/abs/2104.12468). The paper has been accepted at CVPR, 2021 for Findings.
